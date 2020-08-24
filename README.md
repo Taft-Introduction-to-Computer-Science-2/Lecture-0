@@ -84,6 +84,16 @@ _Lecture-39(11/23)_: Presentation <br />
  * Exam : 40%
  * Project : 40%
 
+Textbooks: <br />
+Introduction to Computation and Programming Using Python: With Application to Understanding Data (The MIT Press) second edition <br />
+by John V. Guttag<br />
+ISBN-13: 978-0262529624 <br />
+ISBN-10: 0262529629 <br />
+eTextbook: https://www.amazon.com/Introdction-Computation-Programming-Using-Python-ebook-dp-B01K6F2236/dp/B01K6F2236/ref=mt_other?_encoding=UTF8&me=&qid=
+
+
+Academic Integrity: https://www.taftschool.org/about/honor-code <br />
+In short, do not copy solutions or code (I will know!)
 
 
 
